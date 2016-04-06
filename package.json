@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/joeferner/node-pi-watchdog",
   "dependencies": {
-    "ioctl": "^0.0.4"
+    "ioctl": "^1.0.0"
   }
 }
